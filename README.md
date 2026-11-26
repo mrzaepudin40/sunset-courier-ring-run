@@ -1,7 +1,12 @@
 # Sunset Courier — Ring Run
 
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/mrzaepudin40/sunset-courier-ring-run/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/mrzaepudin40/sunset-courier-ring-run/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+
 A complete original flight game for the make.fun "Make the best flight game"
-bounty. Fly the sunset mail run over Coral Coast: thread all 12 glowing rings,
+bounty ([bounty page](https://make.fun/bounty/best-flight-game-20261126-0057)).
+Fly the sunset mail run over Coral Coast: thread all 12 glowing rings,
 dodge hot-air balloons and storm clouds, mind your fuel and the clock, then
 land on runway 04.
 
